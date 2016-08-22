@@ -1,4 +1,3 @@
-layout_spectrum: 0.05881881411187351
 typography_spectrum: 0.34885789384134114
 color:
   brandStrength: 0.7174161253497005
@@ -11,14 +10,12 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.05881881411187351
 author:
   name: Kosta Lysenko
   email: lysenko.kostya@gmail.com
 name: ipac
 navigation:
-  - name: 'About '
-    id: 1332911c-ea90-459c-8c0e-8aa03bdfcb0e
-    type: content
   - name: WDG Public Health
     url: 'https://www.wdgpublichealth.ca/'
     type: external
