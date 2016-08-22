@@ -11,6 +11,9 @@ color:
     - '#FFF6E5'
     - '#FF7F66'
 layout_spectrum: 0.8186591679695994
+author:
+  name: Kosta Lysenko
+  email: lysenko.kostya@gmail.com
 name: ipac
 title: Infection Prevention and Control
 description: Healthy Practices leading to Healthy Outcomes
