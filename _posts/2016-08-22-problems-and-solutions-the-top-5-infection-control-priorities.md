@@ -1,14 +1,14 @@
 ---
-description: 'diaper change, food safety, cleaning (prevent recontamination)'
-dateModified: '2016-08-22T14:29:23.684Z'
-datePublished: '2016-08-22T14:29:27.361Z'
-title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-22T14:31:13.648Z'
 sourcePath: >-
   _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
+author: []
+via: {}
+dateModified: '2016-08-22T14:31:13.396Z'
+title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
+publisher: {}
+description: 'diaper change, food safety, cleaning (prevent recontamination)'
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -40,6 +40,8 @@ resources - reg 562? food safety training, recommend FST @wdghu
 ## Environmental Contamination
 
 stats on noro, importance of cleaning (how long can viruses and bacteria survive on surfaces
+
+loose parts
 
 ## Immunization
 
