@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T14:33:20.168Z'
+datePublished: '2016-08-22T14:37:13.753Z'
 sourcePath: >-
   _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
 author: []
 via: {}
-dateModified: '2016-08-22T14:33:19.811Z'
+dateModified: '2016-08-22T14:37:13.456Z'
 title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
 publisher: {}
 description: 'diaper change, food safety, cleaning (prevent recontamination)'
@@ -15,7 +15,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd06c240-a5b4-4119-b417-978d93dadb4e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/322680f4-2406-4916-a2bb-2ad4b8fddd30.jpg)
 
 # Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares
 
