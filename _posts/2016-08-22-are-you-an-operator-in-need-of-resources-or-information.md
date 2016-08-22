@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T19:49:04.925Z'
+datePublished: '2016-08-22T19:50:48.092Z'
 sourcePath: _posts/2016-08-22-are-you-an-operator-in-need-of-resources-or-information.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T19:49:04.597Z'
+dateModified: '2016-08-22T19:50:47.839Z'
 title: Are you an Operator? In need of Resources or Information?
 publisher: {}
 description: Contact us to request information or start a conversation
