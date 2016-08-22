@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T19:47:58.035Z'
+datePublished: '2016-08-22T19:49:04.925Z'
 sourcePath: _posts/2016-08-22-are-you-an-operator-in-need-of-resources-or-information.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T19:47:57.611Z'
+dateModified: '2016-08-22T19:49:04.597Z'
 title: Are you an Operator? In need of Resources or Information?
 publisher: {}
 description: Contact us to request information or start a conversation
@@ -14,7 +14,7 @@ url: are-you-an-operator-in-need-of-resources-or-information/index.html
 _type: Article
 
 ---
-![jj](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de323cc1-ade8-4f23-b191-737d4635495a.png)
+![jj](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0c32006-9654-4bf9-9b22-eb230228be72.jpg)
 
 # Are you an Operator? In need of Resources or Information?
 
