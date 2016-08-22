@@ -1,0 +1,14 @@
+layout_spectrum: 0.8186591679695994
+typography_spectrum: 0.431147834751755
+color:
+  brandStrength: 0.6268762575928122
+  lightness: 0.43275472638197243
+  saturation: 0.7364013514015824
+  rhythmicContrast: 0.2156213626731187
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: ipac
