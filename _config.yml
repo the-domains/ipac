@@ -16,9 +16,6 @@ author:
   email: lysenko.kostya@gmail.com
 name: ipac
 navigation:
-  - name: 'About '
-    id: f775d6aa-8507-45ec-b06e-d95aacf16505
-    type: content
   - name: Problems & Solutions
     id: cb276703-b76a-42e2-ba26-bc4d13285505
     type: content
