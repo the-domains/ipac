@@ -15,5 +15,9 @@ author:
   name: Kosta Lysenko
   email: lysenko.kostya@gmail.com
 name: ipac
+navigation:
+  - name: WDG Public Health
+    url: www.wdgpublichealth.ca
+    type: external
 title: Infection Prevention and Control
 description: Healthy Practices Leading to Healthy Outcomes
