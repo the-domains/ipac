@@ -19,5 +19,8 @@ navigation:
   - name: WDG Public Health
     url: 'https://www.wdgpublichealth.ca/'
     type: external
+  - name: 'About '
+    id: 1332911c-ea90-459c-8c0e-8aa03bdfcb0e
+    type: content
 title: Infection Prevention and Control
 description: Healthy Practices leading to Healthy Outcomes
