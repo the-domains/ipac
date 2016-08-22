@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-22T15:11:31.283Z'
+datePublished: '2016-08-22T15:13:54.998Z'
 sourcePath: >-
   _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-22T15:11:31.090Z'
+dateModified: '2016-08-22T15:13:54.669Z'
 title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
 publisher: {}
 description: ''
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f851d3ea-44d7-4b5f-92fa-b6ee1ed021f9.jpg)
