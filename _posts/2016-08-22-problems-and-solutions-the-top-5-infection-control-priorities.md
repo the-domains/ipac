@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-23T17:34:02.877Z'
+datePublished: '2016-08-23T17:48:43.340Z'
 sourcePath: >-
   _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T17:33:18.667Z'
+dateModified: '2016-08-23T17:48:36.685Z'
 title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
 publisher: {}
 description: ''
@@ -23,11 +23,11 @@ _type: Article
 
 ## Importance of IPAC in Day Care Centres
 
-**Over the recent decades, there has been an increased demand for child care in Canada. According to Statistics Canada, 54% of parents with children aged 4 and under and 39% of parents with children over the age of 5 used day cares. (1) **
+**Over the recent decades, there has been an increased demand for child care in Canada. According to Statistics Canada, 54% of parents with children aged 4 and under and 39% of parents with children over the age of 5 used day cares. (1)**
 
-**Child care centers and their operators play a crucial role in supporting the healthy development of children. Research in the field of early childhood education has shown that a high quality of child care enhances a child's social and cognitive development. (2) **
+**Child care centers and their operators play a crucial role in supporting the healthy development of children. Research in the field of early childhood education has shown that a high quality of child care enhances a child's social and cognitive development. (2)**
 
-**Although there are definite benefits to the use of care, the practice is not absent from risk. Evidence has shown that day care attendance increases a child's risk of acquiring common infectious diseases compared to children cared for at home. (3) **
+**Although there are definite benefits to the use of care, the practice is not absent from risk. Evidence has shown that day care attendance increases a child's risk of acquiring common infectious diseases compared to children cared for at home. (3)**
 
 **Due to the increased risk of infection, immature immune systems, and poor personal hygiene practices among children, it is crucial that day care operators utilize effective infection control practices in order to protect the health of the children, their families, and the community as a whole.**
 
@@ -43,19 +43,19 @@ _type: Article
 
 ### Resources
 
-Hand washing procedure poster :
+**Hand washing procedure poster :**
 
 [https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Handwashing%20with%20soap%20and%20water%20-%20Mar%2011%202015.pdf][0]
 
-Information on appropriate use of PPE
+**Information on appropriate use of PPE**
 
 [https://www.wdgpublichealth.ca/?q=hpltcicp][1]
 
-Diaper Changing Routine Procedures
+**Diaper Changing Routine Procedures**
 
 [https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Diaper%20Changing%20Routine%20Fact%20Sheet%20HPDCD(FS)60.pdf][2]
 
-Detailed information on the use of PPE and dangers associated with misuse
+**Detailed information on the use of PPE and dangers associated with misuse**
 
 http://www.publichealthontario.ca/en/eRepository/RPAP\_All\_HealthCare\_Settings\_Eng2012.pdf
 
@@ -71,17 +71,19 @@ http://www.publichealthontario.ca/en/eRepository/RPAP\_All\_HealthCare\_Settings
 
 ### Resources
 
-Food Safetry Training and Certification
+**Food Safetry Training and Certification**
 
 [http://www.wdgpublichealth.ca/?q=businessfoodcert][3]
 
-Canadian Food Inspection Agency Food Recall Warnings 
+**Canadian Food Inspection Agency Food Recall Warnings**
 
 http://www.inspection.gc.ca/about-the-cfia/newsroom/food-recall-warnings/eng/1299076382077/1299076493846
 
-Provincial Regulatory Food Safety Standards [https://www.ontario.ca/laws/regulation/900562][4]
+**Provincial Regulatory Food Safety Standards**
 
-Food safethazard analysis and critical control point document
+[https://www.ontario.ca/laws/regulation/900562][4]****
+
+**Food safety hazard analysis and critical control point document**
 
 https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/haccp%20food%20safety%20booklet.pdf
 
@@ -95,17 +97,17 @@ https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/haccp%20food%20saf
 
 ### Resources
 
-Immunization clinic locations
+**Immunization clinic locations**
 
-<article style=""><h1>Clinics | Wellington-Dufferin-Guelph Public Health</h1><p>Our clinics offer immunization, travel, and sexual health services at the same locations.</p><img src="https://www.wdgpublichealth.ca/sites/default/files/logo_wdgph.png" /></article>
+http://www.wdgpublichealth.ca/?q=cliniclocations
 
-Ontario's Routine Immunization Schedule
+**Ontario's Routine Immunization Schedule**
 
-> Ontario Ministry of Health and Long-Term Care. 18,470 likes \* 118 talking about this. Official account of Ontario's Ministry of Health and Long-Term...
+https://www.facebook.com/ONThealth/app/?sk=app\_501877329898439&ref=page\_internal
 
 **Ontario Day Nurseries Act**
 
-<article style=""><h1>e-Laws</h1><p>You're using an outdated browser. This website will not display correctly and some features will not work.Learn more about the browsers we support for a faster and safer online experience. Our staff can't provide legal advice, interpret the law or conduct research. You may be able to obtain assistance from a lawyer or paralegal.</p><img src="https://www.ontario.ca/sites/all/themes/odpm/images/ontario.png" /></article>
+[https://www.ontario.ca/laws/regulation/900262\#BK15][5]
 
 ## Cleaning and disinfection
 
@@ -123,7 +125,7 @@ Ontario's Routine Immunization Schedule
 
 Nature Based Play in Childcare Centres
 
-[https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf][5]
+[https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf][6]
 
 Nature Based Play Schedule for Child Care Centres
 
@@ -145,18 +147,19 @@ Comprehensive infection control policies and procedures ensure that when stressf
 
 ## References
 
-**(1) [http://www.statcan.gc.ca/pub/89-652-x/89-652-x2014005-eng.htm][6]**
+**(1) [http://www.statcan.gc.ca/pub/89-652-x/89-652-x2014005-eng.htm][7]**
 
-**(2) [http://nieer.org/sites/nieer/files/Investing%20in%20Early%20Childhood%20Eduation%20A%20Global%20Perspectivei.pdf][7]**
+**(2) [http://nieer.org/sites/nieer/files/Investing%20in%20Early%20Childhood%20Eduation%20A%20Global%20Perspectivei.pdf][8]**
 
-**(3) [http://www.ncbi.nlm.nih.gov/pubmed/15191427][8]).**
+**(3) [http://www.ncbi.nlm.nih.gov/pubmed/15191427][9]).**
 
 [0]: https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Handwashing%20with%20soap%20and%20water%20-%20Mar%2011%202015.pdf
 [1]: https://www.wdgpublichealth.ca/?q=hpltcicp
 [2]: https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Diaper%20Changing%20Routine%20Fact%20Sheet%20HPDCD(FS)60.pdf
 [3]: http://www.wdgpublichealth.ca/?q=businessfoodcert
 [4]: https://www.ontario.ca/laws/regulation/900562
-[5]: https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf
-[6]: http://www.statcan.gc.ca/pub/89-652-x/89-652-x2014005-eng.htm
-[7]: http://nieer.org/sites/nieer/files/Investing%20in%20Early%20Childhood%20Eduation%20A%20Global%20Perspectivei.pdf
-[8]: http://www.ncbi.nlm.nih.gov/pubmed/15191427
+[5]: https://www.ontario.ca/laws/regulation/900262#BK15
+[6]: https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf
+[7]: http://www.statcan.gc.ca/pub/89-652-x/89-652-x2014005-eng.htm
+[8]: http://nieer.org/sites/nieer/files/Investing%20in%20Early%20Childhood%20Eduation%20A%20Global%20Perspectivei.pdf
+[9]: http://www.ncbi.nlm.nih.gov/pubmed/15191427
