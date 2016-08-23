@@ -1,4 +1,5 @@
-typography_spectrum: 0.34885789384134114
+layout_spectrum: 0.6526385303586721
+typography_spectrum: 0.19179338170215487
 color:
   brandStrength: 0.7174161253497005
   lightness: 0.9482636817265302
@@ -10,7 +11,6 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
-layout_spectrum: 0.05881881411187351
 author:
   name: Kosta Lysenko
   email: lysenko.kostya@gmail.com
