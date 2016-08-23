@@ -22,5 +22,8 @@ navigation:
   - name: Contact Us
     url: 'https://www.wdgpublichealth.ca/?q=contactus'
     type: external
+  - name: Health Unit Offices
+    url: 'https://www.wdgpublichealth.ca/?q=node/161'
+    type: external
 title: Infection Prevention and Control
 description: Healthy Practices Leading to Healthy Outcomes
