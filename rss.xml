@@ -4,7 +4,7 @@
         <description><![CDATA[Infection Prevention and Control]]></description>
         <link>https://thegrid.ai/ipac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 18:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 18:20:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ipac/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Tue, 23 Aug 2016 17:43:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Are you an Operator in need of Resources or Information?]]></title>
-            <description><![CDATA[<article><h1>Are you an Operator in need of Resources or Information?</h1><p>Contact us here to request information or start a conversation</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/764f48bc-0baf-42de-b2cd-7aa691ba72c3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ipac/are-you-an-operator-in-need-of-resources-or-information/index.html</link>
-            <guid isPermaLink="false">a0916024-7f8b-4cfb-b17d-230ea884fbec</guid>
-            <pubDate>Tue, 23 Aug 2016 17:35:35 GMT</pubDate>
+            <title><![CDATA[Give us your feedback!]]></title>
+            <description><![CDATA[<article><h1>Give us your feedback!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7297e815-c0ef-496d-9c1e-07b36ca1c521.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ipac/give-us-your-feedback/index.html</link>
+            <guid isPermaLink="false">fe11a793-3eaf-4d08-8ecf-e2ac529facfb</guid>
+            <pubDate>Tue, 23 Aug 2016 18:19:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
