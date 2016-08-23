@@ -1,5 +1,11 @@
 ---
-id: cb276703-b76a-42e2-ba26-bc4d13285505
+datePublished: '2016-08-23T18:36:16.744Z'
+sourcePath: >-
+  _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
+inFeed: true
+hasPage: true
+author: []
+via: {}
 metadata:
   datePublished: '2016-08-23T17:48:43.340Z'
   sourcePath: >-
@@ -12,20 +18,14 @@ metadata:
   title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
   publisher: {}
   description: ''
-dateModified: '2016-08-23T18:16:18.356Z'
+dateModified: '2016-08-23T18:33:37.741Z'
 title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
-datePublished: '2016-08-23T18:16:18.833Z'
-author: []
-description: ''
+id: cb276703-b76a-42e2-ba26-bc4d13285505
 publisher: {}
-via: {}
+description: ''
 starred: true
-sourcePath: >-
-  _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: problems-and-solutions-the-top-5-infection-control-priorities/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f851d3ea-44d7-4b5f-92fa-b6ee1ed021f9.jpg)
@@ -40,7 +40,7 @@ _type: MediaObject
 
 **Child care centers and their operators play a crucial role in supporting the healthy development of children. Research in the field of early childhood education has shown that a high quality of child care enhances a child's social and cognitive development. (2)**
 
-**Although there are definite benefits to the use of care, the practice is not absent from risk. Evidence has shown that day care attendance increases a child's risk of acquiring common infectious diseases compared to children cared for at home. (3)**
+**Although there are definite benefits to the use of child care, the practice is not absent from risk. Evidence has shown that day care attendance increases a child's risk of acquiring common infectious diseases compared to children cared for at home. (3)**
 
 **Due to the increased risk of infection, immature immune systems, and poor personal hygiene practices among children, it is crucial that day care operators utilize effective infection control practices in order to protect the health of the children, their families, and the community as a whole.**
 
@@ -48,9 +48,9 @@ _type: MediaObject
 
 ## Donning, Doffing, and Hand Washing
 
-**Hand washing is one of the most effective methods to reduce disease transmission. The hands of both children and operators pick up organisms from contaminated surfaces. Without proper hand washing, these germs can be transmitted to other people, food, or other surfaces.**
+**Hand washing is one of the most effective methods to reduce disease transmission. The hands of both children and operators pick up organisms from contaminated surfaces. Without proper hand washing, these germs can be transmitted to other people, food, or various surfaces.**
 
-**It is crucial for infection control in day cares that children are educated on frequent hand washing in the correct steps. The operators of day cares must also practice frequent hand washing as they often perform hazardous practices such as diaper changes and food preparation.**
+**It is crucial for infection control in day cares that children are educated on frequent hand washing using the correct steps. The operators of day cares must also practice frequent hand washing as they often perform hazardous practices such as diaper changes and food preparation.**
 
 **Certain situations such as a body fluid spills in day cares call for additional infection control practices with the use of personal protective equipment (PPE). Although PPE offers protection against infection, it is only effective if the equipment is put on and taken off in the appropriate steps.**
 
@@ -60,7 +60,7 @@ _type: MediaObject
 
 [https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Handwashing%20with%20soap%20and%20water%20-%20Mar%2011%202015.pdf][0]
 
-**Information on appropriate use of PPE**
+**Information on the appropriate use of PPE**
 
 [https://www.wdgpublichealth.ca/?q=hpltcicp][1]
 
@@ -76,7 +76,7 @@ http://www.publichealthontario.ca/en/eRepository/RPAP\_All\_HealthCare\_Settings
 
 **Food may be a potential carrier of disease in day cares. Safe food handling practices are essential in maintaining the health of the children who attend day care.**
 
-**Food handlers in child care centers must meet the provincial requirements food safety. Factors such as safe cooking temperatures, safe food storage, facility maintenance, frequent cleaning and disinfection of premises and utensils, as well as hand hygiene all contribute to the reduction of infections associated with food. Refer to the regulatory document in the resource list below for a comprehensive list of food safety practices.**
+**Food handlers in child care centres must meet the provincial requirements for food safety. Factors such as safe cooking temperatures, safe food storage, facility maintenance, frequent cleaning and disinfection of premises and utensils, as well as hand hygiene all contribute to the reduction of infections associated with food. Refer to the regulatory document in the resource list below for a comprehensive list of food safety practices.**
 
 **It is important that operators are knowledgeable on the topic of food safety in order to protect the health of the children they are caring for. The Wellington-Dufferin-Guelph Health Unit offers a Food Safety Training and Certification that will allow you to become fluent in the practices of safe food handling.**
 
