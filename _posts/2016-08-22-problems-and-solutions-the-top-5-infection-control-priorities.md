@@ -1,18 +1,31 @@
 ---
-datePublished: '2016-08-23T17:48:43.340Z'
+id: cb276703-b76a-42e2-ba26-bc4d13285505
+metadata:
+  datePublished: '2016-08-23T17:48:43.340Z'
+  sourcePath: >-
+    _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
+  inFeed: true
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-08-23T17:48:43.340Z'
+  title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
+  publisher: {}
+  description: ''
+dateModified: '2016-08-23T18:16:18.356Z'
+title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
+datePublished: '2016-08-23T18:16:18.833Z'
+author: []
+description: ''
+publisher: {}
+via: {}
+starred: true
 sourcePath: >-
   _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
 inFeed: true
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-23T17:48:36.685Z'
-title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
-publisher: {}
-description: ''
-starred: true
-url: problems-and-solutions-the-top-5-infection-control-priorities/index.html
-_type: Article
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f851d3ea-44d7-4b5f-92fa-b6ee1ed021f9.jpg)
@@ -81,7 +94,7 @@ http://www.inspection.gc.ca/about-the-cfia/newsroom/food-recall-warnings/eng/129
 
 **Provincial Regulatory Food Safety Standards**
 
-[https://www.ontario.ca/laws/regulation/900562][4]****
+[https://www.ontario.ca/laws/regulation/900562][4]
 
 **Food safety hazard analysis and critical control point document**
 
@@ -123,27 +136,27 @@ https://www.facebook.com/ONThealth/app/?sk=app\_501877329898439&ref=page\_intern
 
 ### Resources
 
-Nature Based Play in Childcare Centres
+**Nature Based Play in Childcare Centres**
 
 [https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf][6]
 
-Nature Based Play Schedule for Child Care Centres
+**Nature Based Play Schedule for Child Care Centres**
 
 https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20Schedule%20for%20Child%20Care%20Centres%20(2016-01-09).pdf
 
-Best Practices for Environmental Cleaning
+**Best Practices for Environmental Cleaning**
 
 ## Policies and Procedures
 
-Policies and procedures documents are critical in day care settings because they ensure that all staff become trained and educated on the procedures and risks present in their work environment.
+**Policies and procedures documents are critical in day care settings because they ensure that all staff become trained and educated on the procedures and risks present in their work environment.**
 
-Policies and procedures should be reviewed annually to keep them current with best practices and submitted to the local public health unit for review.
+**Policies and procedures should be reviewed annually to keep them current with best practices and submitted to the local public health unit for review.**
 
-Of particular importance are policies and procedures relating to exclusion of ill staff and children, infection control practices, environmental cleaning, food safety, and outbreak management.
+**Of particular importance are policies and procedures relating to exclusion of ill staff and children, infection control practices, environmental cleaning, food safety, and outbreak management.**
 
-Lapses during critical moments of infection control, such as during a bodily fluid cleanup or management of an outbreak may have serious consequences. Inadequate preparation and training in these areas of infection control may not only pose a health risk to the individual but all the children present in the child care center or even the whole community.
+**Lapses during critical moments of infection control, such as during a bodily fluid cleanup or management of an outbreak may have serious consequences. Inadequate preparation and training in these areas of infection control may not only pose a health risk to the individual but all the children present in the child care center or even the whole community.**
 
-Comprehensive infection control policies and procedures ensure that when stressful situations occur, all staff are not only prepared to take action but doing so in the appropriate way.
+**Comprehensive infection control policies and procedures ensure that when stressful situations occur, all staff are not only prepared to take action but doing so in the appropriate way.**
 
 ## References
 
