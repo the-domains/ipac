@@ -1,20 +1,32 @@
 ---
-datePublished: '2016-08-23T17:35:35.784Z'
+id: a0916024-7f8b-4cfb-b17d-230ea884fbec
+metadata:
+  datePublished: '2016-08-23T17:35:35.784Z'
+  sourcePath: _posts/2016-08-22-are-you-an-operator-in-need-of-resources-or-information.md
+  inFeed: true
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-08-23T17:35:35.784Z'
+  title: Are you an Operator in need of Resources or Information?
+  publisher: {}
+  description: Contact us here to request information or start a conversation
+dateModified: '2016-08-23T18:20:09.857Z'
+title: Are you an Operator in need of Resources or Information?
+datePublished: '2016-08-23T18:20:10.289Z'
+author: []
+description: Contact us here to request information or start a conversation
+publisher: {}
+via: {}
+starred: false
 sourcePath: _posts/2016-08-22-are-you-an-operator-in-need-of-resources-or-information.md
 inFeed: true
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-23T17:35:27.096Z'
-title: Are you an Operator in need of Resources or Information?
-publisher: {}
-description: Contact us here to request information or start a conversation
-starred: false
-url: are-you-an-operator-in-need-of-resources-or-information/index.html
-_type: Article
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
-![jj](https://the-grid-user-content.s3-us-west-2.amazonaws.com/764f48bc-0baf-42de-b2cd-7aa691ba72c3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/764f48bc-0baf-42de-b2cd-7aa691ba72c3.jpg)
 
 # Are you an Operator in need of Resources or Information?
 
