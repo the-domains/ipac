@@ -1,4 +1,3 @@
-layout_spectrum: 0.6526385303586721
 typography_spectrum: 0.19179338170215487
 color:
   brandStrength: 0.7174161253497005
@@ -11,6 +10,7 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.6526385303586721
 author:
   name: Kosta Lysenko
   email: lysenko.kostya@gmail.com
@@ -18,6 +18,9 @@ name: ipac
 navigation:
   - name: WDG Public Health
     url: www.wdgpublichealth.ca
+    type: external
+  - name: Contact Us
+    url: 'https://www.wdgpublichealth.ca/?q=contactus'
     type: external
 title: Infection Prevention and Control
 description: Healthy Practices Leading to Healthy Outcomes
