@@ -1,9 +1,22 @@
 ---
-description: Complete the following form to provide suggestions or ask questions
-dateModified: '2016-08-23T18:14:24.825Z'
-datePublished: '2016-08-23T18:14:30.407Z'
+id: fe11a793-3eaf-4d08-8ecf-e2ac529facfb
+metadata:
+  id: fe11a793-3eaf-4d08-8ecf-e2ac529facfb
+  metadata:
+    description: Complete the following form to provide suggestions or ask questions
+    dateModified: '2016-08-23T18:14:30.407Z'
+    datePublished: '2016-08-23T18:14:30.407Z'
+    title: Give us your feedback!
+    author: []
+    publisher: {}
+    via: {}
+    sourcePath: _posts/2016-08-23-give-us-your-feedback.md
+  dateModified: '2016-08-23T18:14:43.313Z'
+dateModified: '2016-08-23T18:15:33.389Z'
 title: Give us your feedback!
+datePublished: '2016-08-23T18:15:33.730Z'
 author: []
+description: Complete the following form to provide suggestions or ask questions
 publisher: {}
 via: {}
 starred: false
