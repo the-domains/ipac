@@ -1,16 +1,16 @@
-typography_spectrum: 0.19179338170215487
+layout_spectrum: 0.9909538051579148
+typography_spectrum: 0.03738072421401739
 color:
-  brandStrength: 0.7174161253497005
-  lightness: 0.9482636817265302
-  saturation: 0.2791221507359296
-  rhythmicContrast: 0.6821474675089121
+  brandStrength: 0.0316324420273304
+  lightness: 0.3256856147199869
+  saturation: 0.08389957901090384
+  rhythmicContrast: 0.6771899377927184
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-layout_spectrum: 0.6526385303586721
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 author:
   name: Kosta Lysenko
   email: lysenko.kostya@gmail.com
