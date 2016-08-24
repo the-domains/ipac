@@ -1,24 +1,12 @@
 ---
-datePublished: '2016-08-23T18:36:16.744Z'
+datePublished: '2016-08-24T01:41:55.894Z'
 sourcePath: >-
   _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-metadata:
-  datePublished: '2016-08-23T17:48:43.340Z'
-  sourcePath: >-
-    _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
-  inFeed: true
-  hasPage: true
-  author: []
-  via: {}
-  dateModified: '2016-08-23T17:48:43.340Z'
-  title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
-  publisher: {}
-  description: ''
-dateModified: '2016-08-23T18:33:37.741Z'
+dateModified: '2016-08-24T01:41:55.480Z'
 title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
 id: cb276703-b76a-42e2-ba26-bc4d13285505
 publisher: {}
@@ -34,7 +22,7 @@ _type: Article
 
 ### How to Identify and Resolve Infection Prevention and Control Lapses
 
-## Importance of IPAC in Day Care Centres
+# Importance of IPAC in Day Care Centres
 
 **Over the recent decades, there has been an increased demand for child care in Canada. According to Statistics Canada, 54% of parents with children aged 4 and under and 39% of parents with children over the age of 5 used day cares. (1)**
 
@@ -46,7 +34,7 @@ _type: Article
 
 **The following article looks at five infections control practices that are effective in reducing the incidence of infectious diseases in this vulnerable population.**
 
-## Donning, Doffing, and Hand Washing
+# Donning, Doffing, and Hand Washing
 
 **Hand washing is one of the most effective methods to reduce disease transmission. The hands of both children and operators pick up organisms from contaminated surfaces. Without proper hand washing, these germs can be transmitted to other people, food, or various surfaces.**
 
@@ -54,7 +42,7 @@ _type: Article
 
 **Certain situations such as a body fluid spills in day cares call for additional infection control practices with the use of personal protective equipment (PPE). Although PPE offers protection against infection, it is only effective if the equipment is put on and taken off in the appropriate steps.**
 
-### Resources
+## Resources
 
 **Hand washing procedure poster :**
 
@@ -72,7 +60,7 @@ _type: Article
 
 http://www.publichealthontario.ca/en/eRepository/RPAP\_All\_HealthCare\_Settings\_Eng2012.pdf
 
-## Food Safety
+# Food Safety
 
 **Food may be a potential carrier of disease in day cares. Safe food handling practices are essential in maintaining the health of the children who attend day care.**
 
@@ -82,7 +70,7 @@ http://www.publichealthontario.ca/en/eRepository/RPAP\_All\_HealthCare\_Settings
 
 **Furthermore, it is important to only prepare food that has been prepared, packaged, and transported in a safe manner. The Canadian Food Inspection agency maintains an up to date list of recalled food items as well as information about food recalls that should be referenced prior to purchasing food for day care use.**
 
-### Resources
+## Resources
 
 **Food Safetry Training and Certification**
 
@@ -100,7 +88,7 @@ http://www.inspection.gc.ca/about-the-cfia/newsroom/food-recall-warnings/eng/129
 
 https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/haccp%20food%20safety%20booklet.pdf
 
-## Immunization
+# Immunization
 
 **Up to date immunization is critical in the prevention infectious disease acquisition by stopping infections before they start. Immunization programs in Canada are a major factor in the reduction in child mortality seen over the last century.**
 
@@ -108,7 +96,7 @@ https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/haccp%20food%20saf
 
 **The provincial Day Nurseries Act states that a complete history of a child's immunization history is submitted to public health. Furthermore, child care staff must meet similar requirements and have an up to date vaccination history prior to starting employment in a child care setting.**
 
-### Resources
+## Resources
 
 **Immunization clinic locations**
 
@@ -122,7 +110,7 @@ https://www.facebook.com/ONThealth/app/?sk=app\_501877329898439&ref=page\_intern
 
 [https://www.ontario.ca/laws/regulation/900262\#BK15][5]
 
-## Cleaning and disinfection
+# Cleaning and disinfection
 
 **The surfaces in day cares are constantly being contaminated with various organisms present in the environment, the hands of children or operators, and other sources.**
 
@@ -134,7 +122,7 @@ https://www.facebook.com/ONThealth/app/?sk=app\_501877329898439&ref=page\_intern
 
 **Certain surfaces, such as plush toys or porous surfaces cannot be cleaned and disinfected appropriately. In order to keep such items safe, they must be used on a rotational basis. Items that cannot be cleaned must be kept out of the child care areas for two weeks before being reintroduced to the children, safeguarding against exposure to pathogens.**
 
-### Resources
+## Resources
 
 **Nature Based Play in Childcare Centres**
 
@@ -146,7 +134,7 @@ https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20P
 
 **Best Practices for Environmental Cleaning**
 
-## Policies and Procedures
+# Policies and Procedures
 
 **Policies and procedures documents are critical in day care settings because they ensure that all staff become trained and educated on the procedures and risks present in their work environment.**
 
