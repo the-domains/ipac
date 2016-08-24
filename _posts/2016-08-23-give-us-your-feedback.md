@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T01:40:32.667Z'
+datePublished: '2016-08-24T01:46:25.066Z'
 sourcePath: _posts/2016-08-23-give-us-your-feedback.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T01:40:32.212Z'
+dateModified: '2016-08-24T01:46:24.598Z'
 title: Give us your feedback!
 id: fe11a793-3eaf-4d08-8ecf-e2ac529facfb
 publisher: {}
