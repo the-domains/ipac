@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-24T01:41:55.894Z'
+datePublished: '2016-08-24T01:45:05.701Z'
 sourcePath: >-
   _posts/2016-08-22-problems-and-solutions-the-top-5-infection-control-priorities.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T01:41:55.480Z'
+dateModified: '2016-08-24T01:45:05.184Z'
 title: 'Problems & Solutions: The Top 5 Infection Control Priorities in Day Cares'
 id: cb276703-b76a-42e2-ba26-bc4d13285505
 publisher: {}
@@ -108,9 +108,9 @@ https://www.facebook.com/ONThealth/app/?sk=app\_501877329898439&ref=page\_intern
 
 **Ontario Day Nurseries Act**
 
-[https://www.ontario.ca/laws/regulation/900262\#BK15][5]
+https://www.ontario.ca/laws/regulation/900262
 
-# Cleaning and disinfection
+# Cleaning and Disinfection
 
 **The surfaces in day cares are constantly being contaminated with various organisms present in the environment, the hands of children or operators, and other sources.**
 
@@ -126,7 +126,7 @@ https://www.facebook.com/ONThealth/app/?sk=app\_501877329898439&ref=page\_intern
 
 **Nature Based Play in Childcare Centres**
 
-[https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf][6]
+[https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf][5]
 
 **Nature Based Play Schedule for Child Care Centres**
 
@@ -146,21 +146,20 @@ https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20P
 
 **Comprehensive infection control policies and procedures ensure that when stressful situations occur, all staff are not only prepared to take action but doing so in the appropriate way.**
 
-## References
+# References
 
-**(1) [http://www.statcan.gc.ca/pub/89-652-x/89-652-x2014005-eng.htm][7]**
+**(1) [http://www.statcan.gc.ca/pub/89-652-x/89-652-x2014005-eng.htm][6]**
 
-**(2) [http://nieer.org/sites/nieer/files/Investing%20in%20Early%20Childhood%20Eduation%20A%20Global%20Perspectivei.pdf][8]**
+**(2) [http://nieer.org/sites/nieer/files/Investing%20in%20Early%20Childhood%20Eduation%20A%20Global%20Perspectivei.pdf][7]**
 
-**(3) [http://www.ncbi.nlm.nih.gov/pubmed/15191427][9]).**
+**(3) [http://www.ncbi.nlm.nih.gov/pubmed/15191427][8]).**
 
 [0]: https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Handwashing%20with%20soap%20and%20water%20-%20Mar%2011%202015.pdf
 [1]: https://www.wdgpublichealth.ca/?q=hpltcicp
 [2]: https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Diaper%20Changing%20Routine%20Fact%20Sheet%20HPDCD(FS)60.pdf
 [3]: http://www.wdgpublichealth.ca/?q=businessfoodcert
 [4]: https://www.ontario.ca/laws/regulation/900562
-[5]: https://www.ontario.ca/laws/regulation/900262#BK15
-[6]: https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf
-[7]: http://www.statcan.gc.ca/pub/89-652-x/89-652-x2014005-eng.htm
-[8]: http://nieer.org/sites/nieer/files/Investing%20in%20Early%20Childhood%20Eduation%20A%20Global%20Perspectivei.pdf
-[9]: http://www.ncbi.nlm.nih.gov/pubmed/15191427
+[5]: https://www.wdgpublichealth.ca/sites/default/files/wdgphfiles/Nature%20Based%20Play%20in%20Childcare%20Centres%20HPDCD(FS)62%20(2015-09-24).pdf
+[6]: http://www.statcan.gc.ca/pub/89-652-x/89-652-x2014005-eng.htm
+[7]: http://nieer.org/sites/nieer/files/Investing%20in%20Early%20Childhood%20Eduation%20A%20Global%20Perspectivei.pdf
+[8]: http://www.ncbi.nlm.nih.gov/pubmed/15191427
